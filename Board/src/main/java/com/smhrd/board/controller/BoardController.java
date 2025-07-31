@@ -72,7 +72,7 @@ public class BoardController {
 			}
 			
 			// 4. DB경로 문자열 설정
-			imgPath = "/uploads/"+fileName;
+			imgPath = "/home/git/uploads/"+fileName;
 		}
 		
 		
